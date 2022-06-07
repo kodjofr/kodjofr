@@ -1,1 +1,1 @@
-I'm a Backend Dev working with Python, Django and sometimes ReactJS
+Python, Django, Flask, sometimes ReactJS...and ☕ Coffee too 
