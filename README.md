@@ -1,1 +1,2 @@
-Python, Django, Flask, Data Science, ReactJS (rookie level), Grey's Anatomy, Jules Verne
+domain : data science, web dev
+tools : python (flask,django) , java, js
