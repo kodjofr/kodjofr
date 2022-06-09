@@ -1,2 +1,2 @@
-domain : data science, web dev
-tools : python (flask,django) , java, js
+domain : data science, web dev </br>
+tools : python (flask, django) , java, js (react js)
